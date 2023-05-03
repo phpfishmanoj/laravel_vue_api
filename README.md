@@ -2,4 +2,4 @@
 # npm init vue@latest
 # npm install
 # npm install axios
-# npm run dev \n
+# npm run dev
